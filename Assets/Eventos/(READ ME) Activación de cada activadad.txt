@@ -1,0 +1,19 @@
+Activada 1 
+Tecla F hace daño
+Tecla G cura
+
+Actividad 2
+Tecla F recolecta
+
+Actividad 3
+
+Tecla S Empieza el juego
+Tecla F pausa el juego
+
+Actividad 4
+
+Tecla F cambia de nivel
+
+Actividad 5
+
+Tecla F interactua con NPC
